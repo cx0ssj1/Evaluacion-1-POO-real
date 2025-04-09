@@ -5,7 +5,7 @@ public class Main {
         Scanner sc = new Scanner(System.in);
 
         Monoplaza monoplaza = new Monoplaza();
-        RallyCar rallyCar = new RallyCar();
+        Rallycar rallyCar = new Rallycar();
 
         System.out.println("¿Qué clase desea probar?\nA. Monoplaza\nB. Rally Car");
         String clase = sc.nextLine().toUpperCase();

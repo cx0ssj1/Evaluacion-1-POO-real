@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 // Clase RallyCar
-class RallyCar extends Auto {
+class Rallycar extends Auto {
     private final Scanner sc = new Scanner(System.in);
 
     public void setTipo() {
